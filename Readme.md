@@ -26,10 +26,8 @@
 24. What is the difference between Preloading and Prefetching resources?
 25. What are service workers?
 
-<h2><-- OPEN ENDED INTERVIEW QUESTIONS --></h2>
-<br/>
-<h4> There are many things that interviewers want to test you on some of them are Personality or Culture fit Adaptability or ability to learn new things Implementation / Skills Knowledge Keeping this in mind, here are some open ended questions that you can prepare for, which can be interpreted in any manner.</h4>
-<br/>
+  <h2><-- OPEN ENDED INTERVIEW QUESTIONS --></h2>
+
 1. What are some new things happening in the web?
 2. Explain a project that you have built?
 3. Whats something exciting that you have built?
