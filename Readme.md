@@ -1,4 +1,4 @@
-<h1><-- HTML CSS, WEB QUESTION BANK --></h1>
+<h2><-- HTML CSS, WEB QUESTION BANK --></h2>
 
 1. Explain briefly what happens when you hit a url? explain DNS lookup
 2. What is a URLs full form? Explain what a url is and the four parts it consists of The protocol in use The hostname of the server The location of the file The arguments to the file
@@ -26,25 +26,19 @@
 24. What is the difference between Preloading and Prefetching resources?
 25. What are service workers?
 
-<-- OPEN ENDED INTERVIEW QUESTIONS -->
+<h2><-- OPEN ENDED INTERVIEW QUESTIONS --></h2>
+<br/>
+<h4> There are many things that interviewers want to test you on some of them are Personality or Culture fit Adaptability or ability to learn new things Implementation / Skills Knowledge Keeping this in mind, here are some open ended questions that you can prepare for, which can be interpreted in any manner.</h4>
+<br/>
+1. What are some new things happening in the web?
+2. Explain a project that you have built?
+3. Whats something exciting that you have built?
+4. What are you most excited about?
+5. Why do coding standards matter? What are some patterns you follow?
+6. How do you go about managing responsive websites?
+7. What do you care about the most when you write software?
 
-1. There are many things that interviewers want to test you on
-2. some of them are
-3. Personality or Culture fit
-4. Adaptability or ability to learn new things
-5. Implementation / Skills
-6. Knowledge
-7. Keeping this in mind, here are some open ended questions that you can prepare for, which can be interpreted in any manner.
-
-8. What are some new things happening in the web?
-9. Explain a project that you have built?
-10. Whats something exciting that you have built?
-11. What are you most excited about?
-12. Why do coding standards matter? What are some patterns you follow?
-13. How do you go about managing responsive websites?
-14. What do you care about the most when you write software?
-
-<-- CSS INTERVIEW QUESTIONS -->
+<h2><-- CSS INTERVIEW QUESTIONS --></h2>
 
 1. how to add comments on css?
 2. Why do we use pseudo-class?
